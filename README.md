@@ -6,3 +6,4 @@ Christian
 - Prof. Dr. Christian Müller-Kett
 - mailbox@raumanalysen.de
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaumanalysenChristianMueller/R_Analyst/HEAD?urlpath=%2Frstudio)
