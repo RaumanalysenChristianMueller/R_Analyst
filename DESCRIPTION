@@ -1,0 +1,23 @@
+Type: Compendium
+Package: R-Analyst
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+Description: Test-Umgebung zur Fortbildung
+License: What license it uses
+Depends: 
+    dplyr,
+    ggplot2,
+    ggrepel,
+    ggthemes,
+    kableExtra,
+    knitr,
+    leaflet,
+    openxlsx,
+    rmarkdown,
+    sf,
+    showtext,
+    tidyverse
+Encoding: UTF-8
+LazyData: true
