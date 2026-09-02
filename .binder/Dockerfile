@@ -1,5 +1,5 @@
 FROM rocker/binder:4.6.1
-LABEL maintainer='Christian_Mueller-Kett'
+LABEL maintainer='ChristianMuellerKett'
 COPY --chown=${NB_USER} . ${HOME}
 USER ${NB_USER}
 
